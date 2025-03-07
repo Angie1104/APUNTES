@@ -56,8 +56,9 @@ proporcionalidad entre la entrada y la salida
 
 ## 2. Transformada de LaPlace
 <a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=x(s)=\int_{0}^{\propto }x(t)*e^{-s*t}at"><img src="http://www.alciro.org/cgi/tex.cgi?x(s)=\int_{0}^{\propto }x(t)*e^{-s*t}at" title="x(s)=\int_{0}^{\propto }x(t)*e^{-s*t}at" border="0" /></a>
-### 3.1. Título de subsecciones
-Para la creación de estas subsecciones debe utilizar un tamaño de letra más pequeño, por lo tanto utilice la etiqueta '###' 
+### 2.1. Transformada Inversa de LaPlace
+Las transformadas inversas de Laplace permiten recuperar una función en el dominio del tiempo a partir de su representación en el dominio de la frecuencia
+
 ### 3.2. Numeración de subsecciones
 Siga la numeración de la sección seguida de un punto y luego el número de la subsección.
 

@@ -15,7 +15,8 @@ Es la secuencia de pasos que permite el desarrollo, o fabricación de un objetiv
 >![Texto alternativo](https://sites.icmc.usp.br/efcosta/modelo_motor.jpg)
 
 >Si su salida en curso depende de su entrada en curso se conoce como estatico
-![Texto alternativo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7IjGqmlcXbckB6SmwJ3RR63DymmO96KV_ehC28KeULOesoPFqGDGctQC5I6LpUM6R3AQ&usqp=CAU)
+>
+>![Texto alternativo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7IjGqmlcXbckB6SmwJ3RR63DymmO96KV_ehC28KeULOesoPFqGDGctQC5I6LpUM6R3AQ&usqp=CAU)
 
 
 >**Modelos Dinamicos**

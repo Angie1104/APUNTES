@@ -14,7 +14,7 @@ Es la secuencia de pasos que permite el desarrollo, o fabricación de un objetiv
 Se les conoce como sistemas dinamicos si su salida en el presente depende de una entrada en el pasado. 
 ![Texto alternativo](https://sites.icmc.usp.br/efcosta/modelo_motor.jpg)
 
->Si su salida en curso depende de su entrada en curso se conoce como estatico
+Si su salida en curso depende de su entrada en curso se conoce como estatico
 
 ![Texto alternativo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7IjGqmlcXbckB6SmwJ3RR63DymmO96KV_ehC28KeULOesoPFqGDGctQC5I6LpUM6R3AQ&usqp=CAU)
 
@@ -24,11 +24,11 @@ En control interesa obtener un modelos matematico que relacione las variables co
 
 **<a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=f(x)"><img src="http://www.alciro.org/cgi/tex.cgi?f(x)" title="f(x)" border="0" /></a>**
 
->Es necesario cuantificar cuanto cambia la variable en un tiempo.
+Es necesario cuantificar cuanto cambia la variable en un tiempo.
 
 **<a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=\frac{df(t)}{dt}"><img src="http://www.alciro.org/cgi/tex.cgi?\frac{df(t)}{dt}" title="\frac{df(t)}{dt}" border="0" /></a>**
 
-**Modelos de Ecuaciones Diferenciables**
+>**Modelos de Ecuaciones Diferenciables**
 Son combinaciones lineas de derivadas de diferente orden.
  
  **<a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=a{1}*\frac{d^{2}f}{dt}+a{2}*\frac{df}{dt}+a{3}f=4f"><img src="http://www.alciro.org/cgi/tex.cgi?a{1}*\frac{d^{2}f}{dt}+a{2}*\frac{df}{dt}+a{3}f=4f" title="a{1}*\frac{d^{2}f}{dt}+a{2}*\frac{df}{dt}+a{3}f=4f" border="0" /></a>**
@@ -36,8 +36,7 @@ Son combinaciones lineas de derivadas de diferente orden.
 **F** = Salida del sistema  
 **U** = Entrada del sistema 
 
-**Sistemas lineales y no lineales**
-
+>**Sistemas lineales y no lineales**
 Un Sistema se considera lineal cuando cumple con el principio de superposición
 
 •Un Sistema lineal Tambien tiene la característica de

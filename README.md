@@ -75,7 +75,7 @@ Las transformadas inversas de Laplace permiten recuperar una función en el domi
 
 <a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=x(s)=\left[ \frac{e^{-(s+3)t}}{-(s+3} \right]"><img src="http://www.alciro.org/cgi/tex.cgi?x(s)=\left[ \frac{e^{-(s+3)t}}{-(s+3} \right]" title="x(s)=\left[ \frac{e^{-(s+3)t}}{-(s+3} \right]" border="0" /></a>
 
-<a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=x(s)=\frac{0-1}{(s+3)}"><img src="http://www.alciro.org/cgi/tex.cgi?x(s)=\frac{0-1}{-(s+3)}"title="x(s)=\frac{0-1}{-(s+3)}" border="0" /></a>
+<a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=x(s)=\frac{0-1}{(s+3)}"><img src="http://www.alciro.org/cgi/tex.cgi?x(s)=\frac{0-1}{(s+3)}"title="x(s)=\frac{0-1}{-(s+3)}" border="0" /></a>
 
 ![image](https://github.com/user-attachments/assets/c9545df6-dd8a-4ea2-90f1-2835e04fc49c)
 

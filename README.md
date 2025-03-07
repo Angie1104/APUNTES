@@ -3,6 +3,7 @@ Las Transformadas de Laplace son una herramienta matemática utilizada para conv
 ## 1. DEFINICIONES
 **Sistema**
 Conjunto de elementos que actuan para alcanzar un objetivo, se pueden relacionar por medio de reglas que relacionan salidas con entradas.
+
 **Planta**
 Sistemas fisicos o procesos que se desean para controlar.
 **Proceso**

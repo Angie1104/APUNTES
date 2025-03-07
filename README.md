@@ -119,6 +119,10 @@ Ejemplo:
 ![Texto alternativo](https://imgv2-1-f.scribdassets.com/img/document/194423839/original/947c20b794/1?v=1)
 ![image](https://github.com/user-attachments/assets/5c7a145a-f3bf-47d8-aa6e-033a06ebbffa)
 
+num = [2 1];
+den = [1 4 5];  % x^2 + 4x + 5
+
+[r, p, k] = residue(num, den)
 
 Figura 1. Figura de prueba
 

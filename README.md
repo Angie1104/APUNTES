@@ -13,6 +13,11 @@ Es la secuencia de pasos que permite el desarrollo, o fabricación de un objetiv
 **Sistema Dinamico**
 Se les conoce como sistemas dinamicos si su salida en el presente depende de una entrada en el pasado. Si su salida en curso depende de su entrada en curso se conoce como estatico
 
+**Modelos Dinamicos**
+En control interesa obtener un modelos matematico que relacione las variables con el tiempo
+
+<a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=f(x)"><img src="http://www.alciro.org/cgi/tex.cgi?f(x)" title="f(x)" border="0" /></a>
+
 **Modelos de Ecuaciones Diferenciables**
 Son combinaciones lineas de derivadas de diferente orden.
  
@@ -20,7 +25,7 @@ Son combinaciones lineas de derivadas de diferente orden.
 
 **F** = Salida del sistema  
 **U** = Entrada del sistema 
-La solucion no es un número, es una función
+
 ## 2. Definiciones
 Utilice el símbolo '>' para crear bloques de texto. En la presente plantilla estas cajas están reservadas para resaltar las definiciones, las cuales deben ser breves, y la palabra o frase que se está definiendo debe estar en letra itálica. El inicio del bloque de texto debe realizarse con el emoji 🔑 .
 >🔑 *Definición:* descripción precisa y clara del significado de una palabra, término, concepto o fenómeno. Es una explicación que establece los límites y el alcance de aquello que se está definiendo, aclarando su naturaleza, características esenciales y, en algunos casos, su relación con otros conceptos.

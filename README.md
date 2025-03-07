@@ -4,13 +4,13 @@ Las Transformadas de Laplace son una herramienta matemática utilizada para conv
 >**Sistema**
 Conjunto de elementos que actuan para alcanzar un objetivo, se pueden relacionar por medio de reglas que relacionan salidas con entradas.
 
-**Planta**
+>**Planta**
 Sistemas fisicos o procesos que se desean para controlar.
 
-**Proceso**
+>**Proceso**
 Es la secuencia de pasos que permite el desarrollo, o fabricación de un objetivo o producto. Pueden ser representados por ecuaciones diferenciables.
 
-**Sistema Dinamico**
+>**Sistema Dinamico**
 Se les conoce como sistemas dinamicos si su salida en el presente depende de una entrada en el pasado. 
 ![Texto alternativo](https://sites.icmc.usp.br/efcosta/modelo_motor.jpg)
 
@@ -19,7 +19,7 @@ Si su salida en curso depende de su entrada en curso se conoce como estatico
 ![Texto alternativo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7IjGqmlcXbckB6SmwJ3RR63DymmO96KV_ehC28KeULOesoPFqGDGctQC5I6LpUM6R3AQ&usqp=CAU)
 
 
-**Modelos Dinamicos**
+>**Modelos Dinamicos**
 En control interesa obtener un modelos matematico que relacione las variables con el tiempo
 
 **<a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=f(x)"><img src="http://www.alciro.org/cgi/tex.cgi?f(x)" title="f(x)" border="0" /></a>**

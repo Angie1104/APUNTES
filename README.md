@@ -73,9 +73,6 @@ Las transformadas inversas de Laplace permiten recuperar una función en el domi
 
 <a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=\int e^{-at}dt=\frac{e^{-at}}{a}"><img src="http://www.alciro.org/cgi/tex.cgi?\int e^{-at}dt=\frac{e^{-at}}{a}" title="\int e^{-at}dt=\frac{e^{-at}}{a}" border="0" /></a>
 
-![Captura de pantalla 2025-03-07 175008](https://github.com/user-attachments/assets/1134f95c-d42f-491a-b48d-53c61cd851f6)
-
-
 <a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=x(s)=\frac{0-1}{-(s+3)}"><img src="http://www.alciro.org/cgi/tex.cgi?x(s)=\frac{0-1}{-(s+3)}" title="x(s)=\frac{0-1}{-(s+3)}" border="0" /></a>
 
 

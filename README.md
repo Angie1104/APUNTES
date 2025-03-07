@@ -117,6 +117,8 @@ Ejemplo:
 
 ## Fracciones parciales en Matlab
 ![Texto alternativo](https://imgv2-1-f.scribdassets.com/img/document/194423839/original/947c20b794/1?v=1)
+![image](https://github.com/user-attachments/assets/5c7a145a-f3bf-47d8-aa6e-033a06ebbffa)
+
 
 Figura 1. Figura de prueba
 

@@ -13,7 +13,7 @@ Es la secuencia de pasos que permite el desarrollo, o fabricación de un objetiv
 **Sistema Dinamico**
 Se les conoce como sistemas dinamicos si su salida en el presente depende de una entrada en el pasado. Si su salida en curso depende de su entrada en curso se conoce como estatico
 
-![Texto alternativo]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fmasam.cuautitlan.unam.mx%2Fdycme%2Fdsf%2Fsistemas-dinamicos%2F&psig=AOvVaw0hxY2bVU24tP27CufSwwNw&ust=1741469701194000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiS_Kf2-IsDFQAAAAAdAAAAABAQ))]
+![Texto alternativo]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7IjGqmlcXbckB6SmwJ3RR63DymmO96KV_ehC28KeULOesoPFqGDGctQC5I6LpUM6R3AQ&usqp=CAU]
 
 
 **Modelos Dinamicos**

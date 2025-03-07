@@ -13,14 +13,18 @@ Es la secuencia de pasos que permite el desarrollo, o fabricación de un objetiv
 **Sistema Dinamico**
 Se les conoce como sistemas dinamicos si su salida en el presente depende de una entrada en el pasado. Si su salida en curso depende de su entrada en curso se conoce como estatico
 
+![Texto alternativo]([ruta/de/la/imagen.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmasam.cuautitlan.unam.mx%2Fdycme%2Fdsf%2Fsistemas-dinamicos%2F&psig=AOvVaw0hxY2bVU24tP27CufSwwNw&ust=1741469701194000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiS_Kf2-IsDFQAAAAAdAAAAABAQ))
+
+
 **Modelos Dinamicos**
 En control interesa obtener un modelos matematico que relacione las variables con el tiempo
 
-<a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=f(x)"><img src="http://www.alciro.org/cgi/tex.cgi?f(x)" title="f(x)" border="0" /></a>
+**<a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=f(x)"><img src="http://www.alciro.org/cgi/tex.cgi?f(x)" title="f(x)" border="0" /></a>**
 
 Es necesario cuantificar cuanto cambia la variable en un tiempo.
 
-<a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=\frac{df(t)}{dt}"><img src="http://www.alciro.org/cgi/tex.cgi?\frac{df(t)}{dt}" title="\frac{df(t)}{dt}" border="0" /></a>
+**<a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=\frac{df(t)}{dt}"><img src="http://www.alciro.org/cgi/tex.cgi?\frac{df(t)}{dt}" title="\frac{df(t)}{dt}" border="0" /></a>**
+
 **Modelos de Ecuaciones Diferenciables**
 Son combinaciones lineas de derivadas de diferente orden.
  

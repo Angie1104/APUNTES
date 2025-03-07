@@ -101,6 +101,12 @@ Ejemplo
 
 ![image](https://github.com/user-attachments/assets/f0b8bcc1-2d00-4f33-b8b6-23f59fd77a55)
 
+## 6.2 Raices Reales iguales:
+Si el denominador tiene un factor lineal repetido, es decir, de la forma:
+
+<a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=Q(x)=(x-a)^n"><img src="http://www.alciro.org/cgi/tex.cgi?Q(x)=(x-a)^n" title="Q(x)=(x-a)^n" border="0" /></a>
+
+entonces la descomposición en fracciones parciales debe incluir términos con potencias crecientes del factor repetido:
 
 Figura 1. Figura de prueba
 

@@ -5,9 +5,8 @@ Las Transformadas de Laplace son una herramienta matemática utilizada para conv
 Conjunto de elementos que actuan para alcanzar un objetivo, se pueden relacionar por medio de reglas que relacionan salidas con entradas.
 >**Planta**
 Sistemas fisicos o procesos que se desean para controlar.
-> **Proceso**
+>  **Proceso**
 Es la secuencia de pasos que permite el desarrollo, o fabricación de un objetivo o producto. Pueden ser representados por ecuaciones diferenciables.
-
 > **Sistema Dinamico**
 Se les conoce como sistemas dinamicos si su salida en el presente depende de una entrada en el pasado. 
 Si su salida en curso depende de su entrada en curso se conocce como estatico 

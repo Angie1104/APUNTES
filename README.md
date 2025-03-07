@@ -81,18 +81,13 @@ Las transformadas inversas de Laplace permiten recuperar una función en el domi
 ## 4. Tabla de transformadas de LaPalce
 ![Texto alternativo](https://cienciayt.com/wp-content/uploads/matematicas/transformadas-integrales/tabla-transformada-laplace-a.png)
 
-## 5. Tabla de Transformadas Inversas de LaPlace
-![Texto alternativo](https://blogs.ugto.mx/rea/wp-content/uploads/sites/71/2022/01/Captura-de-Pantalla-2022-01-19-a-las-10.29.14.png)
-
 ## 6. Descomposición de Fraccciones parciales
+Para la descomposición en fracciones parciales se deben factorizar las raíces del polinomio del numerador, se puede saber para que valores de s se eliminan algunos términos; lo cuál reduceel Sistema de 
+ecuaciones que debe ser solucionado.
+
 ![Texto alternativo](https://www.disfrutalasmatematicas.com/algebra/images/partial-fractions-b.svg)
 
-Todas las figuras que incluya deben ser generadas por ustedes, **no utilizar las figuras de las presentaciones**. Para incluir figuras puede seguir los siguientes pasos:
-* Primero escribimos ![]().
-* Después escribimos, dentro de los corchetes, el texto alternativo. Este es opcional y solo entra en acción cuando no se puede cargar la imagen correctamente.
-* Después escribimos, dentro de los paréntesis, la ubicación del archivo (ya sea una url o una ubicación dentro de algun folder local). Se recomienda poner las imágenes en una carpeta que se llame imágenes dentro del repositorio github para que no tengan problemas al cargar las imágenes.
-
-💡**Ejemplo 2:**
+## 6.1 Caso 1: Raices reales diferentes
 
 ![Figura de prueba](images/plantilla/Captura2.PNG)
 

@@ -6,14 +6,17 @@ Conjunto de elementos que actuan para alcanzar un objetivo, se pueden relacionar
 
 **Planta**
 Sistemas fisicos o procesos que se desean para controlar.
+
 **Proceso**
 Es la secuencia de pasos que permite el desarrollo, o fabricación de un objetivo o producto. Pueden ser representados por ecuaciones diferenciables.
+
 **Sistema Dinamico**
 Se les conoce como sistemas dinamicos si su salida en el presente depende de una entrada en el pasado. Si su salida en curso depende de su entrada en curso se conoce como estatico
+
 **Modelos de Ecuaciones Diferenciables**
 Son combinaciones lineas de derivadas de diferente orden.
+ <a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=a{1}*\frac{d^{2}f}{dt}+a{2}*\frac{df}{dt}+a{3}f=4f"><img src="http://www.alciro.org/cgi/tex.cgi?a{1}*\frac{d^{2}f}{dt}+a{2}*\frac{df}{dt}+a{3}f=4f" title="a{1}*\frac{d^{2}f}{dt}+a{2}*\frac{df}{dt}+a{3}f=4f" border="0" /></a>
 
-> <a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=a{1}*\frac{d^{2}f}{dt}+a{2}*\frac{df}{dt}+a{3}f=4f"><img src="http://www.alciro.org/cgi/tex.cgi?a{1}*\frac{d^{2}f}{dt}+a{2}*\frac{df}{dt}+a{3}f=4f" title="a{1}*\frac{d^{2}f}{dt}+a{2}*\frac{df}{dt}+a{3}f=4f" border="0" /></a>
 **F** = Salida del sistema  
 **U** = Entrada del sistema  
 ## 2. Definiciones

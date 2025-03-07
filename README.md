@@ -89,7 +89,9 @@ ecuaciones que debe ser solucionado.
 
 ## 6.1 Caso 1: Raices reales diferentes
 Si el denominador 𝑄(𝑥) de la fracción tiene factores lineales distintos, es decir, de la forma:
+
 <a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=Q(x)=(x-a)(x-b)(x-c)"><img src="http://www.alciro.org/cgi/tex.cgi?Q(x)=(x-a)(x-b)(x-c)" title="Q(x)=(x-a)(x-b)(x-c)" border="0" /></a>
+
 Entonces podemos escribir la fracción original como una suma de fracciones parciales, asignando una constante a cada factor lineal:
 ![Captura de pantalla 2025-03-07 181716](https://github.com/user-attachments/assets/05afe350-573e-4511-bbd3-dda56254ed97)
 

@@ -95,6 +95,11 @@ Si el denominador 𝑄(𝑥) de la fracción tiene factores lineales distintos, 
 Entonces podemos escribir la fracción original como una suma de fracciones parciales, asignando una constante a cada factor lineal:
 ![Captura de pantalla 2025-03-07 181716](https://github.com/user-attachments/assets/05afe350-573e-4511-bbd3-dda56254ed97)
 
+Ejemplo
+![image](https://github.com/user-attachments/assets/98486825-e97e-4866-bf80-db4d53832105)
+
+![image](https://github.com/user-attachments/assets/f0b8bcc1-2d00-4f33-b8b6-23f59fd77a55)
+
 
 Figura 1. Figura de prueba
 

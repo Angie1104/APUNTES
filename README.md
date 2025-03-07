@@ -78,8 +78,8 @@ Las transformadas inversas de Laplace permiten recuperar una función en el domi
 
 ![image](https://github.com/user-attachments/assets/c9545df6-dd8a-4ea2-90f1-2835e04fc49c)
 
-## 5. Ecuaciones
-Para la edición de ecuaciones debe utilizar la etiqueta '$$' al comienzo y final de la ecuación para que la ecuación quede centrada ocupando una línea. Si se quiere que la ecuación quede integrada en el texto debe utilizar la etiqueta '$' al comienzo y final de la ecuación. Las ecuaciones pueden ser editadas utilizando el código LATEX, en el siguiente enlace encuentran un editor de ecuaciones que les genera el código. http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp . Sin embargo hay muchas otras herramientas que pueden utilizar para esto.
+## 4. Tabla de transformadas
+![Texto alternativo](https://imgv2-2-f.scribdassets.com/img/document/382276862/original/69e1941825/1?v=1)
 
 💡**Ejemplo 1:** si se va a representar la ecuación de la ley de Ohm se puede mostrar así $R=\frac{V}{I}$ o también,
 

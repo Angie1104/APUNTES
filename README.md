@@ -124,12 +124,13 @@ donde a y b son números reales y j es la unidad imaginaria, entonces la transfo
 <a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=f(t) = 2e^{at} \times  (A \times  cos(bt)   B \times sin(bt))"><img src="http://www.alciro.org/cgi/tex.cgi?f(t) = 2e^{at} \times  (A \times  cos(bt)   B \times sin(bt))" title="f(t) = 2e^{at} \times  (A \times  cos(bt)   B \times sin(bt))" border="0" /></a>
 
 ## Fracciones parciales en Matlab
+Matlab puede calcular los términos de las fracciones parciales conociendo los polinomios del numerador y denominador de la función en el dominio s
+
 ![image](https://github.com/user-attachments/assets/a886941d-b3d5-422d-ad7a-cffc4b52260f)
 ![image](https://github.com/user-attachments/assets/c4f2dbd7-f0ec-404d-896c-f747d4fcee7e)
 
 
-## 10. Conclusiones
-Agregue unas breves conclusiones sobre los temas trabajados en cada clase, puede ser a modo de resumen de lo trabajado o a indicando lo aprendido en cada clase
 
-## 11. Referencias
-Agregue un subtítulo al final donde pueda poner todas las referencias consultadas incluyendo el origen o fuente de los ejercicios planteados. Tambien dentro del texto referencie los textos o artículos consultados y las figuras y tablas dentro de la explicación de las mismas.
+## 10. Conclusiones
+El uso de fracciones parciales en MATLAB facilita el análisis y solución de ecuaciones racionales, optimizando procesos en matemáticas, ingeniería y ciencias aplicadas.
+

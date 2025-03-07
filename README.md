@@ -79,13 +79,14 @@ Las transformadas inversas de Laplace permiten recuperar una función en el domi
 ![image](https://github.com/user-attachments/assets/c9545df6-dd8a-4ea2-90f1-2835e04fc49c)
 
 ## 4. Tabla de transformadas de LaPalce
-![Texto alternativo](https://imgv2-2-f.scribdassets.com/img/document/382276862/original/69e1941825/1?v=1)
+![Texto alternativo](https://cienciayt.com/wp-content/uploads/matematicas/transformadas-integrales/tabla-transformada-laplace-a.png)
 
 ## 5. Tabla de Transformadas Inversas de LaPlace
 ![Texto alternativo](https://blogs.ugto.mx/rea/wp-content/uploads/sites/71/2022/01/Captura-de-Pantalla-2022-01-19-a-las-10.29.14.png)
 
 ## 6. Descomposición de Fraccciones parciales
 ![Texto alternativo](https://www.disfrutalasmatematicas.com/algebra/images/partial-fractions-b.svg)
+
 Todas las figuras que incluya deben ser generadas por ustedes, **no utilizar las figuras de las presentaciones**. Para incluir figuras puede seguir los siguientes pasos:
 * Primero escribimos ![]().
 * Después escribimos, dentro de los corchetes, el texto alternativo. Este es opcional y solo entra en acción cuando no se puede cargar la imagen correctamente.

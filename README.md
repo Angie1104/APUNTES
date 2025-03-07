@@ -71,9 +71,13 @@ Las transformadas inversas de Laplace permiten recuperar una función en el domi
 
 <a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=\int_{0}^{\propto }e^{-(s+3)t}dt"><img src="http://www.alciro.org/cgi/tex.cgi?\int_{0}^{\propto }e^{-(s+3)t}dt" title="\int_{0}^{\propto }e^{-(s+3)t}dt" border="0" /></a>
 
-<a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=\int e^{-at}dt= \frac{e^{-at}}{a}"><img src="http://www.alciro.org/cgi/tex.cgi?\int e^{-at}dt= \frac{e^{-at}}{a}" title="\int e^{-at}dt= \frac{e^{-at}}{a}" border="0" /></a>
+<a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=\int e^{-at}dt=\frac{e^{-at}}{a}"><img src="http://www.alciro.org/cgi/tex.cgi?\int e^{-at}dt=\frac{e^{-at}}{a}" title="\int e^{-at}dt=\frac{e^{-at}}{a}" border="0" /></a>
 
 <a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=x(s)=\left[ \frac{e^{-(s+3)t}}{-(s+3} \right]"><img src="http://www.alciro.org/cgi/tex.cgi?x(s)=\left[ \frac{e^{-(s+3)t}}{-(s+3} \right]" title="x(s)=\left[ \frac{e^{-(s+3)t}}{-(s+3} \right]" border="0" /></a>
+
+<a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=x(s)=\frac{0-1}{-(s+3)}"><img src="http://www.alciro.org/cgi/tex.cgi?x(s)=\frac{0-1}{-(s+3)}"title="x(s)=\frac{0-1}{-(s+3)}" border="0" /></a>
+
+![image](https://github.com/user-attachments/assets/c9545df6-dd8a-4ea2-90f1-2835e04fc49c)
 
 ## 5. Ecuaciones
 Para la edición de ecuaciones debe utilizar la etiqueta '$$' al comienzo y final de la ecuación para que la ecuación quede centrada ocupando una línea. Si se quiere que la ecuación quede integrada en el texto debe utilizar la etiqueta '$' al comienzo y final de la ecuación. Las ecuaciones pueden ser editadas utilizando el código LATEX, en el siguiente enlace encuentran un editor de ecuaciones que les genera el código. http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp . Sin embargo hay muchas otras herramientas que pueden utilizar para esto.

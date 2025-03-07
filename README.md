@@ -18,6 +18,9 @@ En control interesa obtener un modelos matematico que relacione las variables co
 
 <a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=f(x)"><img src="http://www.alciro.org/cgi/tex.cgi?f(x)" title="f(x)" border="0" /></a>
 
+Es necesario cuantificar cuanto cambia la variable en un tiempo.
+
+<a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=\frac{df(t)}{dt}"><img src="http://www.alciro.org/cgi/tex.cgi?\frac{df(t)}{dt}" title="\frac{df(t)}{dt}" border="0" /></a>
 **Modelos de Ecuaciones Diferenciables**
 Son combinaciones lineas de derivadas de diferente orden.
  

@@ -115,49 +115,18 @@ Ejemplo:
 ![image](https://github.com/user-attachments/assets/33847143-584a-4fc7-8706-8414e5b35c4d)
 ![image](https://github.com/user-attachments/assets/94636c36-8cac-4cd5-8f39-9375e4d0f908)
 
+## 6.3 Raices Reales conjugadas
+Si la función de transferencia F(s) tiene raíces complejas conjugadas, es decir
+
+<a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=F(s) = (s - (a   jb))(s - (a - jb))"><img src="http://www.alciro.org/cgi/tex.cgi?F(s) = (s - (a   jb))(s - (a - jb))" title="F(s) = (s - (a   jb))(s - (a - jb))" border="0" /></a>
+
+donde a y b son números reales y j es la unidad imaginaria, entonces la transformada inversa de Laplace es:
+<a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=f(t) = 2e^{at} \times  (A \times  cos(bt)   B \times sin(bt))"><img src="http://www.alciro.org/cgi/tex.cgi?f(t) = 2e^{at} \times  (A \times  cos(bt)   B \times sin(bt))" title="f(t) = 2e^{at} \times  (A \times  cos(bt)   B \times sin(bt))" border="0" /></a>
+
 ## Fracciones parciales en Matlab
-![Texto alternativo](https://imgv2-1-f.scribdassets.com/img/document/194423839/original/947c20b794/1?v=1)
-![image](https://github.com/user-attachments/assets/5c7a145a-f3bf-47d8-aa6e-033a06ebbffa)
+![image](https://github.com/user-attachments/assets/a886941d-b3d5-422d-ad7a-cffc4b52260f)
+![image](https://github.com/user-attachments/assets/c4f2dbd7-f0ec-404d-896c-f747d4fcee7e)
 
-Figura 1. Figura de prueba
-
-Incluya la respectiva etiqueta a modo de descripción de la figura y mantenga numeración consecutiva para todas las figuras de la clase.
-
-## 7. Tablas
-En caso de necesitar la inclusión de tablas para organizar información se recomienda el uso de la herramienta del siguiente enlace https://www.tablesgenerator.com/markdown_tables , la cual permite organizar la información dentro de la tabla y genera el código markdown automáticamente:
-
-💡**Ejemplo 3:** 
-
-| **Resultado** | **x = número de intentos hasta primer éxito** |
-|---------------|-----------------------------------------------|
-|       S       |                       1                       |
-|       FS      |                       2                       |
-|      FFS      |                       3                       |
-|      ...      |                      ...                      |
-|    FFFFFFS    |                       7                       |
-|      ...      |                      ...                      |
-
-Tabla 1. Tabla de ejemplo
-
-Cada tabla debe llevar la etiqueta que describa su contenido y numeración consecutiva para todas las tablas
-
-## 8. Código
-Teniendo en cuenta que el curso requiere del desarrollo de código matlab, c, c++ u otro. Si requiere incluir pequeños segmentos de código en los apuntes hágalos de la siguiente manera:
-
-💡**Ejemplo 4:**
-```
-var sumar2 = function(numero) {
-  return numero + 2;
-}
-```
-
-## 9. Ejercicios
-Deben agregar 2 ejercicios con su respectiva solución, referentes a los temas tratados en cada una de las clases. Para agregar estos, utilice la etiqueta #, es decir como un nuevo título dentro de la clase con la palabra 'Ejercicios'. Cada uno de los ejercicios debe estar numerado y con su respectiva solución inmediatamente despues del enunciado. Antes del subtitulo de cada ejercicio incluya el emoji 📚
-
-## Rúbrica
-| 0-1                                                                                   | 1-2                                                                                  | 2-3                                                                                                                                                                               | 3-4                                                                                                                                                                       | 4-5                                                                                                                                                                               |
-|---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Presenta menos del 10% de los temas o no presenta por  el medio y formato  solicitado | Presenta menos del 40% de los temas solicitados, y  cumple parcialmente la plantilla | Presenta menos del 60% de los temas solicitados (con descripciones, gráficos tablas, etc), y cumple  parcialmente la plantilla. No presenta la totalidad  de ejercicios resueltos | Presenta menos del 80% de los temas solicitados (con descripciones, gráficos, tablas, etc) y cumple con  la plantilla. No presenta  la totalidad de ejercicios  resueltos | Presenta el 100% de los temas vistos en clase (con descripciones, gráficos, tablas, etc), siguiendo totalmente la plantilla. presenta la  totalidad de los ejercicios solicitados |
 
 ## 10. Conclusiones
 Agregue unas breves conclusiones sobre los temas trabajados en cada clase, puede ser a modo de resumen de lo trabajado o a indicando lo aprendido en cada clase

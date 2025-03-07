@@ -1,6 +1,5 @@
 # TRANSFORMADAS DE LAPLACE
-Las Transformadas de Laplace son una herramienta matemática utilizada para convertir ecuaciones diferenciales en ecuaciones algebraicas, lo que facilita su análisis y resolución. Se utilizan ampliamente en ingeniería, física y matemáticas aplicadas, especialmente en el análisis de sistemas dinámicos, circuitos eléctricos, mecánica y control automático.
-## 1. DEFINICIONES
+Las Transformadas de Laplace son una herramienta matemática utilizada para convertir ecuaciones diferenciales en ecuaciones algebraicas, lo que facilita su análisis y resolución. Se utilizan ampliamente en ingeniería, física y matemáticas aplicadas, especialmente en el análisis de sistemas dinámicos, circuitos eléctricos, mecánica y control automático.>## 1. DEFINICIONES
 **Sistema**
 Conjunto de elementos que actuan para alcanzar un objetivo, se pueden relacionar por medio de reglas que relacionan salidas con entradas.
 

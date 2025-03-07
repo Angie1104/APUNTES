@@ -11,8 +11,8 @@ Sistemas fisicos o procesos que se desean para controlar.
 Es la secuencia de pasos que permite el desarrollo, o fabricación de un objetivo o producto. Pueden ser representados por ecuaciones diferenciables.
 
 > **Sistema Dinamico**
-Se les conoce como sistemas dinamicos si su salida en el presente depende de una entrada en el pasado. 
-Si su salida en curso depende de su entrada en curso se conocce como estatico 
+Se les conoce como sistemas dinamicos si su salida en el presente depende de una entrada en el pasado. Si su salida en curso depende de su entrada en curso se conoce como estatico
+> 
 
 ## 2. Definiciones
 Utilice el símbolo '>' para crear bloques de texto. En la presente plantilla estas cajas están reservadas para resaltar las definiciones, las cuales deben ser breves, y la palabra o frase que se está definiendo debe estar en letra itálica. El inicio del bloque de texto debe realizarse con el emoji 🔑 .

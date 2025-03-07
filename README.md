@@ -113,8 +113,10 @@ entonces la descomposición en fracciones parciales debe incluir términos con p
 Ejemplo:
 
 ![image](https://github.com/user-attachments/assets/33847143-584a-4fc7-8706-8414e5b35c4d)
-![image](https://github.com/user-attachments/assets/308d46fd-c31d-4a61-b5ed-9edcdddd4c32)
+![image](https://github.com/user-attachments/assets/94636c36-8cac-4cd5-8f39-9375e4d0f908)
 
+## Fracciones parciales en Matlab
+![Texto alternativo](https://imgv2-1-f.scribdassets.com/img/document/194423839/original/947c20b794/1?v=1)
 
 Figura 1. Figura de prueba
 

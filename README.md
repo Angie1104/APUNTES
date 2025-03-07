@@ -28,9 +28,7 @@ Es necesario cuantificar cuanto cambia la variable en un tiempo.
 
 >**Modelos de Ecuaciones Diferenciables**
 Son combinaciones lineas de derivadas de diferente orden.
- 
  **<a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=a{1}*\frac{d^{2}f}{dt}+a{2}*\frac{df}{dt}+a{3}f=4f"><img src="http://www.alciro.org/cgi/tex.cgi?a{1}*\frac{d^{2}f}{dt}+a{2}*\frac{df}{dt}+a{3}f=4f" title="a{1}*\frac{d^{2}f}{dt}+a{2}*\frac{df}{dt}+a{3}f=4f" border="0" /></a>**
-
 **F** = Salida del sistema  
 **U** = Entrada del sistema 
 

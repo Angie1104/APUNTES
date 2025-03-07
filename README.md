@@ -76,7 +76,7 @@ Las transformadas inversas de Laplace permiten recuperar una función en el domi
 ![Captura de pantalla 2025-03-07 175008](https://github.com/user-attachments/assets/1134f95c-d42f-491a-b48d-53c61cd851f6)
 
 
-![Captura de pantalla 2025-03-07 174850](https://github.com/user-attachments/assets/ad9389dd-664f-498d-8f54-4101ed167c5e)
+<a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=x(s)=\frac{0-1}{-(s+3)}"><img src="http://www.alciro.org/cgi/tex.cgi?x(s)=\frac{0-1}{-(s+3)}" title="x(s)=\frac{0-1}{-(s+3)}" border="0" /></a>
 
 
 ![image](https://github.com/user-attachments/assets/c9545df6-dd8a-4ea2-90f1-2835e04fc49c)

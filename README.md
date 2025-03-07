@@ -1,5 +1,5 @@
-# Titulo de la clase 
-El título de cada clase, correspondiente al tema general que se trabaje en clase. Siempre después de cada título de clase, redactar una breve introducción (mínimo un párrafo) que de una mirada general al tema
+# TRANSFORMADAS DE LA PLACE
+Las Transformadas de Laplace son una herramienta matemática utilizada para convertir ecuaciones diferenciales en ecuaciones algebraicas, lo que facilita su análisis y resolución. Se utilizan ampliamente en ingeniería, física y matemáticas aplicadas, especialmente en el análisis de sistemas dinámicos, circuitos eléctricos, mecánica y control automático.
 ## 1. Subtítulos
 Agregue todos los subtítulos que considere necesarios para estructurar el contenido de la clase. Es importante que considere jerarquías de los temas para definir el orden de estos subtítulos. Cada subtítulo debe ir numerado como una sección, de la manera en que lo presenta esta plantilla
 

@@ -73,9 +73,11 @@ Las transformadas inversas de Laplace permiten recuperar una función en el domi
 
 <a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=\int e^{-at}dt=\frac{e^{-at}}{a}"><img src="http://www.alciro.org/cgi/tex.cgi?\int e^{-at}dt=\frac{e^{-at}}{a}" title="\int e^{-at}dt=\frac{e^{-at}}{a}" border="0" /></a>
 
-<a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=x(s)=\left[ \frac{e^{-(s+3)t}}{-(s+3} \right]"><img src="http://www.alciro.org/cgi/tex.cgi?x(s)=\left[ \frac{e^{-(s+3)t}}{-(s+3} \right]" title="x(s)=\left[ \frac{e^{-(s+3)t}}{-(s+3} \right]" border="0" /</a>
+![Captura de pantalla 2025-03-07 175008](https://github.com/user-attachments/assets/1134f95c-d42f-491a-b48d-53c61cd851f6)
 
-<a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=x(s)=\frac{0-1}{(s+3)}"><img src="http://www.alciro.org/cgi/tex.cgi?x(s)=\frac{0-1}{(s+3)}"title="x(s)=\frac{0-1}{-(s+3)}" border="0" /></a>
+
+![Captura de pantalla 2025-03-07 174850](https://github.com/user-attachments/assets/ad9389dd-664f-498d-8f54-4101ed167c5e)
+
 
 ![image](https://github.com/user-attachments/assets/c9545df6-dd8a-4ea2-90f1-2835e04fc49c)
 

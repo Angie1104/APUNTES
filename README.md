@@ -65,13 +65,7 @@ Las transformadas inversas de Laplace permiten recuperar una función en el domi
 ## 3. Ejemplo Transformada de LaPlace
 <a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=x(t)=e^{-3t}"><img src="http://www.alciro.org/cgi/tex.cgi?x(t)=e^{-3t}" title="x(t)=e^{-3t}" border="0" /></a>
 
-<a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=x(s)=\int_{0}^{\propto}x(t)e^{-st}dt
-
-"><img src="http://www.alciro.org/cgi/tex.cgi?x(s)=\int_{0}^{\propto}x(t)e^{-st}dt
-
-" title="x(s)=\int_{0}^{\propto}x(t)e^{-st}dt
-
-" border="0" /></a>
+<a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=x(s)=\int_{0}^{\propto}x(t)e^{-st}dt"><img src="http://www.alciro.org/cgi/tex.cgi?x(s)=\int_{0}^{\propto}x(t)e^{-st}dt" title="x(s)=\int_{0}^{\propto}x(t)e^{-st}dt" border="0" /></a>
 Si en algún caso pretende dar un ejemplo explicativo ya sea a través de texto o através de ecuaciones matemáticos, utilizar la palabra 'Ejemplo' seguido de una numeración consecutiva dentro de la clase. Utilice el emoji 💡 antecediendo la palabra.
 
 ## 5. Ecuaciones

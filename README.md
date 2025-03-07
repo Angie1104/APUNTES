@@ -1,19 +1,15 @@
 # TRANSFORMADAS DE LAPLACE
 Las Transformadas de Laplace son una herramienta matemática utilizada para convertir ecuaciones diferenciales en ecuaciones algebraicas, lo que facilita su análisis y resolución. Se utilizan ampliamente en ingeniería, física y matemáticas aplicadas, especialmente en el análisis de sistemas dinámicos, circuitos eléctricos, mecánica y control automático.
 ## 1. DEFINICIONES
-> **Sistema**
+**Sistema**
 Conjunto de elementos que actuan para alcanzar un objetivo, se pueden relacionar por medio de reglas que relacionan salidas con entradas.
-
-> **Planta**
+**Planta**
 Sistemas fisicos o procesos que se desean para controlar.
-
->   **Proceso**
+**Proceso**
 Es la secuencia de pasos que permite el desarrollo, o fabricación de un objetivo o producto. Pueden ser representados por ecuaciones diferenciables.
-
-> **Sistema Dinamico**
+**Sistema Dinamico**
 Se les conoce como sistemas dinamicos si su salida en el presente depende de una entrada en el pasado. Si su salida en curso depende de su entrada en curso se conoce como estatico
-
->  **Modelos de Ecuaciones Diferenciables**
+**Modelos de Ecuaciones Diferenciables**
 Son combinaciones lineas de derivadas de diferente orden.
 
 > <a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=a{1}*\frac{d^{2}f}{dt}+a{2}*\frac{df}{dt}+a{3}f=4f"><img src="http://www.alciro.org/cgi/tex.cgi?a{1}*\frac{d^{2}f}{dt}+a{2}*\frac{df}{dt}+a{3}f=4f" title="a{1}*\frac{d^{2}f}{dt}+a{2}*\frac{df}{dt}+a{3}f=4f" border="0" /></a>

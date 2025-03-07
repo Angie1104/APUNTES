@@ -107,7 +107,13 @@ Si el denominador tiene un factor lineal repetido, es decir, de la forma:
 <a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=Q(x)=(x-a)^n"><img src="http://www.alciro.org/cgi/tex.cgi?Q(x)=(x-a)^n" title="Q(x)=(x-a)^n" border="0" /></a>
 
 entonces la descomposición en fracciones parciales debe incluir términos con potencias crecientes del factor repetido:
+
 <a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=\frac{P(x)}{(x-a)^n}=\frac{A{1}}{(x-a)}+\frac{A{2}}{(x-a)^2}+\frac{A{n}}{(x-a)^n}"><img src="http://www.alciro.org/cgi/tex.cgi?\frac{P(x)}{(x-a)^n}=\frac{A{1}}{(x-a)}+\frac{A{2}}{(x-a)^2}+\frac{A{n}}{(x-a)^n}" title="\frac{P(x)}{(x-a)^n}=\frac{A{1}}{(x-a)}+\frac{A{2}}{(x-a)^2}+\frac{A{n}}{(x-a)^n}" border="0" /></a>
+
+Ejemplo:
+
+![image](https://github.com/user-attachments/assets/33847143-584a-4fc7-8706-8414e5b35c4d)
+![image](https://github.com/user-attachments/assets/308d46fd-c31d-4a61-b5ed-9edcdddd4c32)
 
 
 Figura 1. Figura de prueba

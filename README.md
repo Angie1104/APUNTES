@@ -46,7 +46,11 @@ proporcionalidad entre la entrada y la salida
 
 >**Inluencia de Parametros**
 >Comportamiento sinusuidal
->![Texto alternativo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.nekomath.com%2Fecuaciones-diferenciales-i-oscilaciones-mecanicas%2F&psig=AOvVaw0mdNZ4bnyeR2u7N81agF4m&ust=1741471404198000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDcnd78-IsDFQAAAAAdAAAAABAJ)
+>![Texto alternativo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sin.svg/1200px-Sin.svg.png)
+>
+>Comportamiento Exponencial
+
+>![Texto alternativo](https://ustednoselocree.com/wp-content/uploads/2009/11/formula_exponential_growth.gif)
 ## 2. Definiciones
 Utilice el símbolo '>' para crear bloques de texto. En la presente plantilla estas cajas están reservadas para resaltar las definiciones, las cuales deben ser breves, y la palabra o frase que se está definiendo debe estar en letra itálica. El inicio del bloque de texto debe realizarse con el emoji 🔑 .
 >🔑 *Definición:* descripción precisa y clara del significado de una palabra, término, concepto o fenómeno. Es una explicación que establece los límites y el alcance de aquello que se está definiendo, aclarando su naturaleza, características esenciales y, en algunos casos, su relación con otros conceptos.

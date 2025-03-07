@@ -53,14 +53,9 @@ proporcionalidad entre la entrada y la salida
 >Comportamiento Exponencial
 
 >![Texto alternativo](https://math.libretexts.org/@api/deki/files/2815/CNX_Calc_Figure_06_08_002.jpeg)
->
->
-## 2. Definiciones
-Utilice el símbolo '>' para crear bloques de texto. En la presente plantilla estas cajas están reservadas para resaltar las definiciones, las cuales deben ser breves, y la palabra o frase que se está definiendo debe estar en letra itálica. El inicio del bloque de texto debe realizarse con el emoji 🔑 .
->🔑 *Definición:* descripción precisa y clara del significado de una palabra, término, concepto o fenómeno. Es una explicación que establece los límites y el alcance de aquello que se está definiendo, aclarando su naturaleza, características esenciales y, en algunos casos, su relación con otros conceptos.
 
-## 3. Subsecciones
-Las subsecciones pueden utilizarse para sub dividir ciertos temas que se tienen en clases, por ejemplo si se está trabajandolos conversores D/A, puede ser necesario subdividir este en circuito de resistencias ponderadas y circuito de escalera R2R. 
+## 2. Transformada de LaPlace
+<a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=x(s)=\int_{0}^{\propto }x(t)*e^{-s*t}at"><img src="http://www.alciro.org/cgi/tex.cgi?x(s)=\int_{0}^{\propto }x(t)*e^{-s*t}at" title="x(s)=\int_{0}^{\propto }x(t)*e^{-s*t}at" border="0" /></a>
 ### 3.1. Título de subsecciones
 Para la creación de estas subsecciones debe utilizar un tamaño de letra más pequeño, por lo tanto utilice la etiqueta '###' 
 ### 3.2. Numeración de subsecciones

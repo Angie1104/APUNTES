@@ -39,8 +39,10 @@ Son combinaciones lineas de derivadas de diferente orden.
 **Sistemas lineales y no lineales**
 
 Un Sistema se considera lineal cuando cumple con el principio de superposición
-• Un Sistema lineal Tambien tiene la característica de
+
+•Un Sistema lineal Tambien tiene la característica de
 proporcionalidad entre la entrada y la salida
+
 Los sistemas no lineales no cumplen con el principio de superposición
 
 ## 2. Definiciones
